@@ -1,0 +1,1 @@
+{"Alum.": 8, "Staph.": 6, "Spig.": 4, "Graph.": 4, "Hep.": 3, "Mag-c.": 2, "Ang.": 2, "Bov.": 2, "Bry.": 2, "Cham.": 2, "Croc.": 2, "Mez.": 2, "Nux-v.": 2, "Seneg.": 2, "Squil.": 2, "Sulph.": 2, "Phos.": 2, "Valer.": 2, "Nat-m.": 2, "Lach.": 2}
